@@ -38,7 +38,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ### Deploying a Model (with AWS SageMaker)
 
-* [All exercise and project notebooks](https://github.com/udacity/sagemaker-deployment) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
+* [All exercise and project notebooks](https://github.com/tanhtra/sagemaker-deployment) for the lessons on model deployment can be found in the linked, Github repo. Learn to deploy pre-trained models using AWS SageMaker.
 
 ### Projects
 
